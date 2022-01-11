@@ -20,4 +20,5 @@ public class Raflebæger {
     return antalØjne;
   }
 
+
 }
